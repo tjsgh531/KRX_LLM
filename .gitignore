@@ -1,3 +1,6 @@
 /data
 /outputs
 .env
+/KR-X-AI
+/lora_model
+/model
